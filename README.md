@@ -1,4 +1,4 @@
-<div style="font-family: Arial, Helvetica, sans-serif;">
+<<div style="font-family: Arial, Helvetica, sans-serif;">
     <h1 align="left">Hi 👋, I'm Matheus Vinicius</h1>
     <p style="background-color: lightgray; display: block; height: 2px;"></p>
         <p>Full-stack developer, mainly focused on IOS developement for now!</p>
@@ -9,7 +9,7 @@
         <a href="mailto:matheus1ro@hotmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Matheus Vinicius" height="30"/></a>
         <h2 align="left">Technologies and Tools:</h3>
         <p style="background-color: lightgray; display: block; height: 2px; margin-bottom: 10px;"></p>
-    <div style="display: block;">
+    <div style="display: flex; justify-content: space-around;">
         <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30"/>
         <img align="center" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="30"/>
         <img align="center" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="30"/>
