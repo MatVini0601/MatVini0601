@@ -28,6 +28,6 @@
         <p style="background-color: lightgray; display: block; height: 2px;"></p>
     <div style="display: block;">
         <img style="display; inline-block" align="left" src="https://github-readme-stats.vercel.app/api?username=matvini0601&show_icons=true&locale=en&theme=dracula" alt="matvini0601" /></p>
-        <img style="display; inline-block align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatVini0601&layout=compact&langs_count=7&theme=dracula" alt="matvini0601" /></p>
+        <img style="display; inline-block" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatVini0601&layout=compact&langs_count=7&theme=dracula" alt="matvini0601" /></p>
     </div>
 </div>
