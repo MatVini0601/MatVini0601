@@ -1,4 +1,4 @@
-<<div style="font-family: Arial, Helvetica, sans-serif;">
+<div style="font-family: Arial, Helvetica, sans-serif;">
     <h1 align="left">Hi 👋, I'm Matheus Vinicius</h1>
     <p style="background-color: lightgray; display: block; height: 2px;"></p>
         <p>Full-stack developer, mainly focused on IOS developement for now!</p>
