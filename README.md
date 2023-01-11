@@ -2,9 +2,6 @@
 <div style="font-family: Arial, Helvetica, sans-serif;">
     <h1 align="left">Hi 👋, I'm Matheus Vinicius</h1>
     <p style="background-color: lightgray; display: block; height: 2px;"></p>
-    <!--Top info-->
-        <!--Little description-->
-
         <p>Full-stack developer, mainly focused on IOS developement for now!</p>
         <p>Currently looking for a job</p>
         <p>I`m working on <a style="text-decoration: none;" href="https://github.com/MatVini0601/gflProject">this project</a> right now</p>
@@ -30,8 +27,6 @@
         <a target="blank"><img align="center" src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" alt="Xcode" height="30"/></a>
         <a style="margin-top: px;" target="blank"><img align="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="30"/></a>
 
-
-            <!--Github Stats-->
         <h3>Github Status</h3>
         <p style="background-color: lightgray; display: block; height: 2px;"></p>
         <p style="display:inline-block">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matvini0601&show_icons=true&locale=en&theme=dracula" alt="matvini0601" /></p>
