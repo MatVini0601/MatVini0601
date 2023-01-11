@@ -4,8 +4,6 @@
 <div style="font-family: Arial, Helvetica, sans-serif;">
     <h1 align="left">Hi 👋, I'm Matheus Vinicius</h1>
     <div style="background-color: lightgray; display: block; height: 2px;"></div>
-    <!--Top info-->
-        <!--Little description-->
 
         <p>Full-stack developer, mainly focused on IOS developement for now!</p>
         <p>Currently looking for a job</p>
@@ -33,7 +31,7 @@
         <a style="margin-top: px;" target="blank"><img align="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="30"/></a>
 
 
-            <!--Github Stats-->
+         
         <h3>Github Status</h3>
         <div style="background-color: lightgray; display: block; height: 2px;"></div>
         <p style="display:inline-block">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matvini0601&show_icons=true&locale=en&theme=dracula" alt="matvini0601" /></p>
