@@ -25,8 +25,10 @@
         <a style="margin-top: px;" target="blank"><img align="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="30"/></a>
         <h2>Github Status</h3>
         <p style="background-color: lightgray; display: block; height: 2px;"></p>
+    <div>
         <p style="display:inline-block">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matvini0601&show_icons=true&locale=en&theme=dracula" alt="matvini0601" /></p>
         <p style="display:inline-block">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatVini0601&layout=compact&langs_count=7&theme=dracula" alt="matvini0601" /></p>
+    </div>
 </div>
 
    
