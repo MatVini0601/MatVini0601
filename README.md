@@ -9,7 +9,7 @@
         <a href="mailto:matheus1ro@hotmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Matheus Vinicius" height="30"/></a>
         <h2 align="left">Technologies and Tools:</h3>
         <p style="background-color: lightgray; display: block; height: 2px; margin-bottom: 10px;"></p>
-    <div style="display: flex; justify-content: space-around;">
+    <div>
         <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30"/>
         <img align="center" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="30"/>
         <img align="center" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="30"/>
@@ -26,8 +26,8 @@
     </div>
         <h2>Github Stats</h3>
         <p style="background-color: lightgray; display: block; height: 2px;"></p>
-    <div style="display: block;">
-        <p style="display:inline;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matvini0601&show_icons=true&locale=en&theme=dracula" alt="matvini0601" /></p>
-        <p style="display:inline;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatVini0601&layout=compact&langs_count=7&theme=dracula" alt="matvini0601" /></p>
+    <div style="display: flex;">
+        <p style="display:inline-block">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=matvini0601&show_icons=true&locale=en&theme=dracula" alt="matvini0601" /></p>
+        <p style="display:inline-block">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatVini0601&layout=compact&langs_count=7&theme=dracula" alt="matvini0601" /></p>
     </div>
 </div>
