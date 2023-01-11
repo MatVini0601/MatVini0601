@@ -2,7 +2,7 @@
 
 <div>
 <a href="https://github.com/MatVini0601">
-![Stats](https://github-readme-stats.vercel.app/api?username=MatVini0601&show_icons=true&theme=blueberry)
+
 </div>
 
 <!--
