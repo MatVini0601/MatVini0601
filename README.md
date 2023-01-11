@@ -8,7 +8,7 @@
         <a href="https://github.com/MatVini0601" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="MatVini0601" height="30"/></a>
         <a href="mailto:matheus1ro@hotmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Matheus Vinicius" height="30"/></a>
         <h2 align="left">Technologies and Tools:</h3>
-        <p style="background-color: lightgray; display: block; height: 2px; margin-bottom: 10px;"></p>
+        <p style="background-color: lightgray; display: block; height: 5px; margin-bottom: 10px;"></p>
     <div>
         <img align="bottom" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30"/>
         <img align="bottom" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="30"/>
