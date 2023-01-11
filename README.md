@@ -10,6 +10,7 @@
         <a href="mailto:matheus1ro@hotmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Matheus Vinicius" height="30"/></a>
         <h2 align="left">Technologies and Tools:</h3>
         <p style="background-color: lightgray; display: block; height: 2px; margin-bottom: 10px;"></p>
+    <div style="margin: 10px;">
         <a target="blank"><img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="30"/></a>
         <a target="blank"><img align="center" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="Mysql" height="30"/></a>
         <a target="blank"><img align="center" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" height="30"/></a>
@@ -23,6 +24,7 @@
         <a target="blank"><img align="center" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="VisualStudio" height="30"/></a>
         <a target="blank"><img align="center" src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" alt="Xcode" height="30"/></a>
         <a style="margin-top: px;" target="blank"><img align="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="30"/></a>
+    </div>
         <h2>Github Stats</h3>
         <p style="background-color: lightgray; display: block; height: 2px;"></p>
     <div>
