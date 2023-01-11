@@ -1,4 +1,4 @@
-<body>
+
     <div style="font-family: Arial, Helvetica, sans-serif;">
         <h1 align="left">Hi 👋, I'm Matheus Vinicius</h1>
         <div style="background-color: lightgray; display: block; height: 2px;"></div>
@@ -46,4 +46,3 @@
             </div>
         </div>
     </div>
-</body>
