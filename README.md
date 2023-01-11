@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<div>
+<a href="https://github.com/MatVini0601">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatVini0601&layout=compact&langs_count=7&theme=material-palenight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatVini0601&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+</div>
+
 <!--
 **MatVini0601/MatVini0601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
