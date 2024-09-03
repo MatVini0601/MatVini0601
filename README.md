@@ -2,8 +2,6 @@
     <h1 align="left">Hi 👋, I'm Matheus Vinicius</h1>
     <p style="background-color: lightgray; display: block; height: 2px;"></p>
         <p>Full-stack developer, mainly focused on IOS development for now!</p>
-        <p>Currently looking for a job</p>
-        <p>I`m working on <a style="text-decoration: none;" href="https://github.com/MatVini0601/gflProject">this project</a> right now</p>
         <a href="https://linkedin.com/in/matheus-vinícius-9b0b441a0" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Matheus Vinicius" height="30"/></a>
         <a href="https://github.com/MatVini0601" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="MatVini0601" height="30"/></a>
         <a href="mailto:matheus1ro@hotmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Matheus Vinicius" height="30"/></a>
