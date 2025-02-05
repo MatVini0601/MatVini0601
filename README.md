@@ -1,21 +1,19 @@
 <div style="font-family: Arial, Helvetica, sans-serif;">
-    <h1 align="left">Hi 👋, I'm Matheus Vinicius</h1>
+    <h1 align="left">Hi</h1>
     <p style="background-color: lightgray; display: block; height: 2px;"></p>
-        <p>Full-stack developer, mainly focused on IOS development for now!</p>
+        <p>Full-stack developer</p>
         <a href="https://linkedin.com/in/matheus-vinícius-9b0b441a0" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Matheus Vinicius" height="30"/></a>
         <a href="https://github.com/MatVini0601" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="MatVini0601" height="30"/></a>
         <a href="mailto:matheus1ro@hotmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Matheus Vinicius" height="30"/></a>
         <h2 align="left">Technologies and Tools:</h3>
         <p style="background-color: lightgray; display: block; height: 5px; margin-bottom: 10px;"></p>
     <div>
-        <img align="bottom" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30"/>
         <img align="bottom" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="30"/>
         <img align="bottom" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="30"/>
         <img align="bottom" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30"/>
         <img align="bottom" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="30"/>
         <img align="bottom" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" height="30"/>
         <img align="bottom" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="30"/>
-        <img align="bottom" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="30"/>
         <img align="bottom" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" height="30"/>
         <img align="bottom" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="30"/>
         <img align="bottom" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" height="30"/>
